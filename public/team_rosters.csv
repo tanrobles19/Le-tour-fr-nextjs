@@ -1,0 +1,653 @@
+uci_code,rider_name,nationality,date_of_birth
+ADC,Tobias Bayer,AUT,1999-11-17
+ADC,Lars Boven,NED,2001-08-13
+ADC,Ramses Debruyne,BEL,2002-08-31
+ADC,Simon Dehairs,BEL,2001-06-04
+ADC,Tibor Del Grosso,NED,2003-07-27
+ADC,Silvan Dillier,SUI,1990-08-03
+ADC,Sam Gaze,NZL,1995-12-12
+ADC,Robbe Ghys,BEL,1997-01-11
+ADC,Gal Glivar,SLO,2002-05-01
+ADC,Michael Gogl,AUT,1993-11-04
+ADC,Kaden Groves,AUS,1998-12-23
+ADC,Quinten Hermans,BEL,1995-07-29
+ADC,Juri Hollmann,GER,1999-08-30
+ADC,Jimmy Janssens,BEL,1989-05-30
+ADC,Timo Kielich,BEL,1999-08-05
+ADC,Xandro Meurisse,BEL,1992-01-31
+ADC,Jasper Philipsen,BEL,1998-03-02
+ADC,Edward Planckaert,BEL,1995-02-01
+ADC,Jensen Plowright,AUS,2000-05-15
+ADC,Johan Price-Pejtersen,DEN,1999-05-26
+ADC,Jonas Rickaert,BEL,1994-02-07
+ADC,Oscar Riesebeek,NED,1992-12-23
+ADC,Henri Uhlig,GER,2001-08-01
+ADC,Fabio Van den Bossche,BEL,2000-09-21
+ADC,Mathieu van der Poel,NED,1995-01-19
+ADC,Stan Van Tricht,BEL,1999-09-20
+ADC,Luca Vergallito,ITA,1997-09-14
+ADC,Gianni Vermeersch,BEL,1992-11-19
+ADC,Emiel Verstrynge,BEL,2002-02-04
+DAT,Tobias Lund Andresen,DEN,1982-08-20
+DAT,Tiesj Benoot,BEL,1994-03-11
+DAT,Leo Bisiaux,FRA,2005-02-14
+DAT,Stefan Bissegger,SUI,1998-09-13
+DAT,Cees Bol,NED,1995-07-27
+DAT,Oscar Chamberlain,AUS,2005-01-15
+DAT,Sander De Pestel,BEL,1998-10-11
+DAT,Stan Dewulf,BEL,1997-12-20
+DAT,Felix Gall,AUT,1998-02-27
+DAT,Pierre Gautherat,FRA,2003-01-16
+DAT,Robbe Ghys,BEL,1997-01-11
+DAT,Tord Gudmestad,NOR,2001-05-08
+DAT,Daan Hoole,NED,1999-02-22
+DAT,Noa Isidore,FRA,2004-09-17
+DAT,Olav Kooij,NED,2001-10-17
+DAT,Jordan Labrosse,FRA,2002-09-15
+DAT,Paul Lapeira,FRA,2000-05-25
+DAT,Antoine L'Hote,FRA,2005-05-27
+DAT,Gregor Muhlberger,AUT,1994-04-04
+DAT,Oliver Naesen,BEL,1990-09-16
+DAT,Aurelien Paret-Peintre,FRA,1996-02-27
+DAT,Rasmus Sojberg Pedersen,DEN,2002-07-09
+DAT,Gianluca Pollefliet,BEL,2002-01-28
+DAT,Nicolas Prodhomme,FRA,1997-02-01
+DAT,Matthew Riccitello,USA,2002-03-05
+DAT,Callum Scotson,AUS,1996-08-10
+DAT,Paul Seixas,FRA,2006-09-24
+DAT,Johannes Staune-Mittet,NOR,2002-01-18
+EFE,Vincenzo Albanese,ITA,1996-11-12
+EFE,Kasper Asgreen,DEN,1995-02-08
+EFE,Samuele Battistella,ITA,1998-11-14
+EFE,Alex Baudin,FRA,2001-05-25
+EFE,Markel Beloki,ESP,2005-07-27
+EFE,Richard Carapaz,ECU,1993-05-29
+EFE,Hugh Carthy,GBR,1994-07-09
+EFE,Jefferson Alexander Cepeda,ECU,1998-06-16
+EFE,Esteban Chaves,COL,1990-01-17
+EFE,Rui Costa,POR,1986-10-05
+EFE,Owain Doull,GBR,1993-05-02
+EFE,Ben Healy,IRL,2000-09-11
+EFE,Mikkel Frolich Honore,DEN,1997-01-29
+EFE,Alastair Mackellar,AUS,2002-01-20
+EFE,Madis Mihkels,EST,2003-05-21
+EFE,Lachlan Morton,AUS,1992-01-02
+EFE,Lukas Nerurkar,GBR,2003-11-14
+EFE,Neilson Powless,USA,1996-09-03
+EFE,Sean Quinn,USA,2000-05-10
+EFE,Darren Rafferty,IRL,2003-07-01
+EFE,Jack Rootkin-Gray,GBR,2002-11-05
+EFE,Archie Ryan,IRL,2001-11-16
+EFE,James Shaw,GBR,1996-06-13
+EFE,Colby Simmons,USA,2003-10-16
+EFE,Georg Steinhauser,GER,2001-10-21
+EFE,Harry Sweeny,AUS,1998-07-09
+EFE,Yuhi Todome,JPN,2002-06-18
+EFE,Michael Valgren,DEN,1992-02-07
+EFE,Marijn van den Berg,NED,1999-07-19
+EFE,Jardi van der Lee,NED,2001-08-06
+EFE,Max Walker,GBR,2001-07-14
+GFC,Lewis Askey,GBR,1981-05-04
+GFC,Cyril Barthe,FRA,1996-02-14
+GFC,Lewis Bower,NZL,2004-10-14
+GFC,Clement Braz Afonso,FRA,1999-11-08
+GFC,Sven Erik Bystrom,NOR,1992-01-21
+GFC,Remi Cavagna,FRA,1995-08-10
+GFC,Clement Davy,FRA,1998-07-17
+GFC,Tom Donnenwirth,FRA,1997-01-19
+GFC,David Gaudu,FRA,1996-10-10
+GFC,Kevin Geniets,LUX,1997-01-09
+GFC,Lorenzo Germani,ITA,2002-03-03
+GFC,Romain Gregoire,FRA,2003-01-21
+GFC,Thibaud Gruel,FRA,2004-05-01
+GFC,Johan Jacobs,SUI,1997-03-01
+GFC,Stefan Kung,SUI,1993-11-16
+GFC,Olivier Le Gac,FRA,1993-08-27
+GFC,Eddy Le Huitouze,FRA,2003-04-03
+GFC,Valentin Madouas,FRA,1996-07-12
+GFC,Guillaume Martin,FRA,1993-06-03
+GFC,Rudy Molard,FRA,1989-09-17
+GFC,Quentin Pacher,FRA,1992-01-06
+GFC,Enzo Paleni,FRA,2002-05-30
+GFC,Paul Penhoet,FRA,2001-12-28
+GFC,Remy Rochas,FRA,1996-05-18
+GFC,Brieuc Rolland,FRA,2003-08-13
+GFC,Clement Russo,FRA,1995-01-20
+GFC,Lars van den Berg,NED,1998-07-07
+GFC,Matthew Walls,GBR,1998-04-20
+IGD,Thymen Arensman,NED,1999-12-04
+IGD,Andrew August,USA,2005-10-12
+IGD,Egan Bernal,COL,1997-01-13
+IGD,Jonathan Castroviejo,ESP,1987-04-27
+IGD,Laurens De Plus,BEL,1995-09-04
+IGD,Caleb Ewan,AUS,1994-07-11
+IGD,Tobias Foss,NOR,1997-05-25
+IGD,Omar Fraile,ESP,1990-07-17
+IGD,Filippo Ganna,ITA,1996-07-25
+IGD,Lucas Hamilton,AUS,1996-02-12
+IGD,Kim Heiduk,GER,2000-03-03
+IGD,Bob Jungels,LUX,1992-09-22
+IGD,Michal Kwiatkowski,POL,1990-06-02
+IGD,Victor Langellotti,MON,1995-06-07
+IGD,Axel Laurance,FRA,2001-04-13
+IGD,Michael Leonard,CAN,2004-03-26
+IGD,Salvatore Puccio,ITA,1989-08-31
+IGD,Brandon Rivera,COL,1996-03-21
+IGD,Carlos Rodriguez,ESP,2001-02-02
+IGD,Oscar Rodriguez,ESP,1995-05-06
+IGD,Magnus Sheffield,USA,2002-04-19
+IGD,Artem Shmidt,USA,2004-01-30
+IGD,Ben Swift,GBR,1987-11-05
+IGD,Connor Swift,GBR,1995-10-30
+IGD,Joshua Tarling,GBR,2004-02-15
+IGD,Geraint Thomas,GBR,1986-05-25
+IGD,Ben Turner,GBR,1999-05-28
+IGD,Samuel Watson,GBR,2001-09-24
+LTK,Juan Ayuso,ESP,1985-09-16
+LTK,Andrea Bagioli,ITA,1999-03-23
+LTK,Julien Bernard,FRA,1992-03-17
+LTK,Giulio Ciccone,ITA,1994-12-20
+LTK,Simone Consonni,ITA,1994-09-12
+LTK,Derek Gee-West,CAN,1997-08-03
+LTK,Tao Geoghegan Hart,GBR,1995-03-30
+LTK,Amanuel Ghebreigzabhier,ERI,1994-08-17
+LTK,Lennard Kamna,GER,1996-09-09
+LTK,Patrick Konrad,AUT,1991-10-23
+LTK,Soren Kragh Andersen,DEN,1994-08-10
+LTK,Jonathan Milan,ITA,2000-10-01
+LTK,Bauke Mollema,NED,1986-11-26
+LTK,Jacopo Mosca,ITA,1993-08-29
+LTK,Mathias Norsgaard,DEN,1997-05-05
+LTK,Thibau Nys,BEL,2002-11-12
+LTK,Sam Oomen,NED,1995-08-15
+LTK,Mads Pedersen,DEN,1995-12-18
+LTK,Albert Philipsen,DEN,2006-09-03
+LTK,Quinn Simmons,USA,2001-05-08
+LTK,Jakob Soderqvist,SWE,2003-05-31
+LTK,Mattias Skjelmose,DEN,2000-09-26
+LTK,Toms Skujins,LAT,1991-06-15
+LTK,Matteo Sobrero,ITA,1997-05-14
+LTK,Tim Torn Teutenberg,GER,2002-06-19
+LTK,Edward Theuns,BEL,1991-04-30
+LTK,Mathias Vacek,CZE,2002-06-12
+LTK,Otto Vergaerde,BEL,1994-07-15
+LTK,Carlos Verona,ESP,1992-11-04
+LTK,Max Walscheid,GER,1993-06-13
+IWA,Toon Aerts,BEL,1993-10-19
+IWA,Jenno Berckmoes,BEL,2001-02-04
+IWA,Cedric Beullens,BEL,1997-01-27
+IWA,Lars Craps,BEL,2001-10-17
+IWA,Logan Currie,NZL,2001-06-24
+IWA,Jasper De Buyst,BEL,1993-11-24
+IWA,Arnaud De Lie,BEL,2002-03-16
+IWA,Steffen De Schuyteneer,BEL,2005-02-24
+IWA,Jarrad Drizners,AUS,1999-05-31
+IWA,Joshua Giddings,GBR,2003-07-20
+IWA,Jonas Gregaard,DEN,1996-07-30
+IWA,Sebastien Grignard,BEL,1999-04-29
+IWA,Arjen Livyns,BEL,1994-09-01
+IWA,Milan Menten,BEL,1996-10-31
+IWA,Robin Orins,BEL,2002-03-06
+IWA,Alec Segaert,BEL,2003-01-16
+IWA,Eduardo Sepulveda,ARG,1991-06-13
+IWA,Liam Slock,BEL,2000-09-18
+IWA,Lionel Taminiaux,BEL,1996-05-19
+IWA,Reuben Thompson,NZL,2001-02-15
+IWA,Jarne Van de Paar,BEL,2000-10-23
+IWA,Lorenz Van de Wynkele,BEL,2001-08-19
+IWA,Lennert Van Eetvelt,BEL,2001-07-17
+IWA,Brent Van Moer,BEL,1998-01-12
+IWA,Henri Vandenabeele,BEL,2000-04-15
+IWA,Baptiste Veistroffer,FRA,2000-05-29
+IWA,Elia Viviani,ITA,1989-02-07
+MOV,Roger Adria,ESP,1998-04-18
+MOV,Jorge Arcas,ESP,1992-07-08
+MOV,Orluis Aular,VEN,1996-11-05
+MOV,Jon Barrenetxea,ESP,2000-04-20
+MOV,Carlos Canal,ESP,2001-06-28
+MOV,Pablo Castrillo,ESP,2001-01-02
+MOV,Jefferson Alveiro Cepeda,ECU,1996-03-02
+MOV,Davide Formolo,ITA,1992-10-25
+MOV,Ivan Garcia Cortina,ESP,1995-11-20
+MOV,Michel Hessmann,GER,2001-04-06
+MOV,Juan Pedro Lopez,ESP,1997-07-31
+MOV,Enric Mas,ESP,1995-01-07
+MOV,Lorenzo Milesi,ITA,2002-03-19
+MOV,Manlio Moro,ITA,2002-03-17
+MOV,Pavel Novak,CZE,2004-12-03
+MOV,Nelson Oliveira,POR,1989-03-06
+MOV,Nairo Quintana,COL,1990-02-04
+MOV,Ivan Romeo,ESP,2003-08-16
+MOV,Javier Romo,ESP,1999-01-06
+MOV,Einer Rubio,COL,1998-02-22
+MOV,Pelayo Sanchez,ESP,2000-03-27
+MOV,Gonzalo Serrano,ESP,1994-08-17
+MOV,Natnael Tesfatsion,ERI,1999-05-23
+MOV,Albert Torres,ESP,1990-04-26
+MOV,Cian Uijtdebroeks,BEL,2003-02-28
+NSN,Lewis Askey,GBR,1986-05-04
+NSN,George Bennett,NZL,1990-04-07
+NSN,Joseph Blackmore,GBR,2003-02-23
+NSN,Guillaume Boivin,CAN,1989-05-25
+NSN,Simon Clarke,AUS,1986-07-18
+NSN,Pier-Andre Cote,CAN,1997-04-24
+NSN,Itamar Einhorn,ISR,1997-09-20
+NSN,Marco Frigo,ITA,2000-03-02
+NSN,Brady Gilmore,AUS,2001-04-14
+NSN,Biniam Girmay,ERI,2000-04-02
+NSN,Jan Hirt,CZE,1991-01-21
+NSN,Hugo Hofstetter,FRA,1994-02-13
+NSN,Oded Kogut,ISR,2001-02-14
+NSN,Matis Louvel,FRA,1999-07-19
+NSN,Alexey Lutsenko,KAZ,1992-09-07
+NSN,Ryan Mullen,IRL,1994-08-07
+NSN,Krists Neilands,LAT,1994-08-18
+NSN,Alessandro Pinarello,ITA,2003-07-13
+NSN,Nadav Raisberg,ISR,2001-03-29
+NSN,Nick Schultz,AUS,1994-09-13
+NSN,Riley Sheehan,USA,2000-06-16
+NSN,Dion Smith,NZL,1993-03-03
+NSN,Jake Stewart,GBR,1999-10-02
+NSN,Corbin Strong,NZL,2000-04-30
+NSN,Tom Van Asbroeck,BEL,1990-04-19
+NSN,Ethan Vernon,GBR,2000-08-26
+NSN,Stephen Williams,GBR,1996-06-09
+RBH,Roger Adria,ESP,1998-05-18
+RBH,Giovanni Aleotti,ITA,1999-05-25
+RBH,Nico Denz,GER,1994-02-15
+RBH,Remco Evenepoel,BEL,2001-01-25
+RBH,Finn Fisher-Black,NZL,2001-12-21
+RBH,Alexander Hajek,AUT,2003-07-19
+RBH,Emil Herzog,GER,2004-10-06
+RBH,Jai Hindley,AUS,1996-05-05
+RBH,Jonas Koch,GER,1993-06-25
+RBH,Oier Lazkano,ESP,1999-11-07
+RBH,Florian Lipowitz,GER,2000-09-21
+RBH,Filip Maciejuk,POL,1999-09-03
+RBH,Daniel Martinez,COL,1996-04-25
+RBH,Jordi Meeus,BEL,1998-07-01
+RBH,Gianni Moscon,ITA,1994-04-20
+RBH,Ryan Mullen,IRL,1994-08-07
+RBH,Anton Palzer,GER,1993-03-11
+RBH,Giulio Pellizzari,ITA,2003-11-21
+RBH,Laurence Pithie,NZL,2002-07-17
+RBH,Primoz Roglic,SLO,1989-10-29
+RBH,Matteo Sobrero,ITA,1997-06-14
+RBH,Jan Tratnik,SLO,1990-02-23
+RBH,Mick van Dijke,NED,2000-03-15
+RBH,Tim van Dijke,NED,2000-03-15
+RBH,Maxim Van Gils,BEL,1999-11-25
+RBH,Danny van Poppel,NED,1993-07-26
+RBH,Aleksandr Vlasov,RUS,1996-04-23
+RBH,Frederik Wandahl,DEN,2001-05-09
+RBH,Sam Welsford,AUS,1996-01-19
+RBH,Ben Zwiehoff,GER,1994-02-22
+SOQ,Ayco Bastiaens,BEL,1996-06-03
+SOQ,Steff Cras,BEL,1996-02-13
+SOQ,Alberto Dainese,ITA,1998-03-25
+SOQ,Pascal Eenkhoorn,NED,1997-02-08
+SOQ,Gianmarco Garofoli,ITA,2002-10-06
+SOQ,Gil Gelders,BEL,2002-12-16
+SOQ,Ethan Hayter,GBR,1998-09-18
+SOQ,Yves Lampaert,BEL,1991-04-10
+SOQ,Mikel Landa,ESP,1989-12-13
+SOQ,Junior Lecerf,BEL,2002-10-15
+SOQ,Paul Magnier,FRA,2004-04-14
+SOQ,Tim Merlier,BEL,1992-10-30
+SOQ,Valentin Paret-Peintre,FRA,2001-01-14
+SOQ,Casper Pedersen,DEN,1996-03-15
+SOQ,Pepijn Reinderink,NED,2002-05-04
+SOQ,Laurenz Rex,BEL,1999-12-15
+SOQ,Maximilian Schachmann,GER,1994-01-09
+SOQ,Jasper Stuyven,BEL,1992-04-17
+SOQ,Martin Svrcek,SVK,2003-02-17
+SOQ,Dylan van Baarle,NED,1992-05-21
+SOQ,Fabio Van den Bossche,BEL,2000-09-21
+SOQ,Dries Van Gestel,BEL,1994-09-30
+SOQ,Bert Van Lerberghe,BEL,1992-09-29
+SOQ,Ilan Van Wilder,BEL,2000-05-14
+SOQ,Warre Vangheluwe,BEL,2001-07-23
+SOQ,Mauri Vansevenant,BEL,1999-06-01
+SOQ,Louis Vervaeke,BEL,1993-10-06
+SOQ,Filippo Zana,ITA,1999-03-18
+TBV,Nikias Arndt,GER,1991-11-18
+TBV,Phil Bauhaus,GER,1994-07-08
+TBV,Pello Bilbao,ESP,1990-02-25
+TBV,Alessandro Borgo,ITA,2005-02-06
+TBV,Alberto Bruttomesso,ITA,2003-10-30
+TBV,Santiago Buitrago,COL,1999-09-26
+TBV,Damiano Caruso,ITA,1987-10-12
+TBV,Roman Ermakov,RUS,2004-10-06
+TBV,Zak Erzen,SLO,2005-10-19
+TBV,Afonso Eulalio,POR,2001-09-30
+TBV,Matevz Govekar,SLO,2000-04-17
+TBV,Kamil Gradek,POL,1990-09-17
+TBV,Rainer Kepplinger,AUT,1997-08-19
+TBV,Lenny Martinez,FRA,2003-07-11
+TBV,Fran Miholjevic,CRO,2002-08-02
+TBV,Pau Miquel,ESP,2000-08-20
+TBV,Matej Mohoric,SLO,1994-10-19
+TBV,Jakob Omrzel,SLO,2006-03-21
+TBV,Mathijs Paasschens,NED,1996-03-18
+TBV,Alec Segaert,BEL,2003-01-16
+TBV,Daniel Skerl,ITA,2003-03-21
+TBV,Robert Stannard,AUS,1998-09-16
+TBV,Oliver Stockwell,GBR,2002-06-07
+TBV,Antonio Tiberi,ITA,2001-06-24
+TBV,Attila Valter,HUN,1998-06-12
+TBV,Max van der Meulen,NED,2004-01-13
+TBV,Vlad Van Mechelen,BEL,2004-06-02
+TBV,Edoardo Zambanini,ITA,2001-04-21
+JAY,Welay Berhe,ETH,1976-10-22
+JAY,Koen Bouwman,NED,1993-12-02
+JAY,Filippo Conca,ITA,1998-09-22
+JAY,Alessandro De Marchi,ITA,1986-05-19
+JAY,Davide De Pretto,ITA,2002-04-19
+JAY,Bob Donaldson,GBR,2002-04-08
+JAY,Paul Double,GBR,1996-06-25
+JAY,Eddie Dunbar,IRL,1996-09-01
+JAY,Luke Durbridge,AUS,1991-04-09
+JAY,Felix Engelhardt,GER,2000-08-19
+JAY,Anders Foldager,DEN,2001-07-27
+JAY,Patrick Gamper,AUT,1997-02-18
+JAY,Dylan Groenewegen,NED,1993-06-21
+JAY,Chris Harper,AUS,1994-11-23
+JAY,Alan Hatherly,RSA,1996-03-15
+JAY,Asbjorn Hellemose,DEN,1999-01-15
+JAY,Michael Hepburn,AUS,1991-08-17
+JAY,Christopher Juul-Jensen,DEN,1989-07-06
+JAY,Jelte Krijnsen,NED,2001-05-12
+JAY,Michael Matthews,AUS,1990-09-26
+JAY,Luka Mezgec,SLO,1988-06-27
+JAY,Kelland O'Brien,AUS,1998-05-22
+JAY,Ben O'Connor,AUS,1995-11-25
+JAY,Luke Plapp,AUS,2000-12-25
+JAY,Elmar Reinders,NED,1992-03-14
+JAY,Mauro Schmid,SUI,1999-12-04
+JAY,Campbell Stewart,NZL,1998-05-12
+JAY,Jasha Sutterlin,GER,1992-11-04
+JAY,Max Walscheid,GER,1993-06-13
+JAY,Filippo Zana,ITA,1999-03-18
+TPP,Warren Barguil,FRA,1991-10-28
+TPP,Pavel Bittner,CZE,2002-10-29
+TPP,Dillon Corkery,IRL,1999-02-12
+TPP,John Degenkolb,GER,1989-01-07
+TPP,Robbe Dhondt,BEL,2004-06-25
+TPP,Matthew Dinham,AUS,2000-04-09
+TPP,Nils Eekhoff,NED,1998-01-23
+TPP,Alexy Faure Prost,FRA,2004-04-22
+TPP,Sean Flynn,GBR,2000-03-02
+TPP,Mattia Gaffuri,ITA,1999-07-04
+TPP,Chris Hamilton,AUS,1995-05-18
+TPP,Fabio Jakobsen,NED,1996-08-31
+TPP,Timo de Jong,NED,1999-03-28
+TPP,James Knox,GBR,1995-11-04
+TPP,Gijs Leemreize,NED,1999-10-23
+TPP,Enzo Leijnse,NED,2001-07-16
+TPP,Niklas Markl,GER,1999-03-03
+TPP,Tim Naberman,NED,1999-05-11
+TPP,Max Poole,GBR,2003-03-01
+TPP,Timo Roosen,NED,1993-01-11
+TPP,Julius van den Berg,NED,1996-10-23
+TPP,Frank van den Broek,NED,2000-12-28
+TPP,Casper van Uden,NED,2001-07-22
+TPP,Bram Welten,NED,1997-03-29
+TVL,Edoardo Affini,ITA,1996-06-24
+TVL,Bruno Armirail,FRA,1994-04-11
+TVL,Louis Barre,FRA,2000-04-06
+TVL,Niklas Behrens,GER,2003-11-06
+TVL,Matthew Brennan,GBR,2005-08-06
+TVL,Victor Campenaerts,BEL,1991-10-28
+TVL,Owain Doull,GBR,1993-05-02
+TVL,Filippo Fiorelli,ITA,1994-11-19
+TVL,Tijmen Graat,NED,2003-01-10
+TVL,Per Strand Hagenes,NOR,2003-07-10
+TVL,Menno Huising,NED,2004-04-08
+TVL,Matteo Jorgenson,USA,1999-07-01
+TVL,Wilco Kelderman,NED,1991-03-25
+TVL,Timo Kielich,BEL,1999-08-05
+TVL,Steven Kruijswijk,NED,1987-06-07
+TVL,Sepp Kuss,USA,1994-09-13
+TVL,Christophe Laporte,FRA,1992-12-11
+TVL,Bart Lemmen,NED,1995-10-14
+TVL,Jorgen Nordhagen,NOR,2005-01-10
+TVL,Pietro Mattio,ITA,2004-06-27
+TVL,Davide Piganzoli,ITA,2002-07-08
+TVL,Tim Rex,BEL,2004-04-11
+TVL,Anton Schiffer,GER,1999-09-01
+TVL,Ben Tulett,GBR,2001-08-26
+TVL,Wout van Aert,BEL,1994-09-15
+TVL,Loe van Belle,NED,2002-01-24
+TVL,Jonas Vingegaard,DEN,1996-12-10
+TVL,Axel Zingle,FRA,1998-12-18
+UAD,Joao Almeida,POR,1998-08-05
+UAD,Igor Arrieta,ESP,2002-12-08
+UAD,Filippo Baroncini,ITA,2000-08-26
+UAD,Mikkel Bjerg,DEN,1998-11-03
+UAD,Jan Christen,SUI,2004-06-26
+UAD,Benoit Cosnefroy,FRA,1995-10-17
+UAD,Isaac del Toro,MEX,2003-11-27
+UAD,Luca Giaimi,ITA,2005-01-12
+UAD,Felix Grossschartner,AUT,1993-12-23
+UAD,Rune Herregodts,BEL,1998-07-27
+UAD,Julius Johansen,DEN,1999-09-13
+UAD,Vegard Stake Laengen,NOR,1989-02-07
+UAD,Brandon McNulty,USA,1998-04-02
+UAD,Juan Sebastian Molano,COL,1994-11-04
+UAD,Antonio Morgado,POR,2004-01-28
+UAD,Jhonatan Narvaez,ECU,1997-03-04
+UAD,Domen Novak,SLO,1995-07-12
+UAD,Ivo Oliveira,POR,1996-09-05
+UAD,Rui Oliveira,POR,1996-09-05
+UAD,Adria Pericas,ESP,2006-05-26
+UAD,Tadej Pogacar,SLO,1998-09-21
+UAD,Nils Politt,GER,1994-03-06
+UAD,Pavel Sivakov,FRA,1997-07-11
+UAD,Marc Soler,ESP,1993-11-22
+UAD,Pablo Torres,ESP,2005-11-10
+UAD,Kevin Vermaerke,USA,2000-10-16
+UAD,Florian Vermeersch,BEL,1999-03-12
+UAD,Jay Vine,AUS,1995-11-16
+UAD,Tim Wellens,BEL,1991-05-10
+UAD,Adam Yates,GBR,1992-08-07
+UNX,Jonas Abrahamsen,NOR,1995-09-20
+UNX,Carl-Frederik Bevort,DEN,2003-11-24
+UNX,Erlend Blikra,NOR,1997-01-11
+UNX,William Blume Levy,DEN,2001-01-14
+UNX,Martin Urianstad Bugge,NOR,1999-02-06
+UNX,Magnus Cort,DEN,1993-01-16
+UNX,Simon Dalby,DEN,2003-01-29
+UNX,Fredrik Dversnes,NOR,1997-03-20
+UNX,Stian Fredheim,NOR,2003-03-23
+UNX,Markus Hoelgaard,NOR,1994-10-04
+UNX,Adne Holter,NOR,2000-07-08
+UNX,Jonas Iversby Hvideberg,NOR,1999-02-09
+UNX,Storm Ingebrigtsen,NOR,2005-02-17
+UNX,Anders Halland Johannessen,NOR,1999-08-23
+UNX,Tobias Halland Johannessen,NOR,1999-08-23
+UNX,Anthon Charmig,DEN,1998-03-25
+UNX,Andreas Kron,DEN,1998-06-01
+UNX,Johannes Kulset,NOR,2004-04-14
+UNX,Alexander Kamp,DEN,1993-12-14
+UNX,Andreas Leknessund,NOR,1999-05-21
+UNX,Sakarias Koller Loland,NOR,2001-09-20
+UNX,Henrik Pedersen,DEN,2004-12-03
+UNX,Erik Resell,NOR,1996-09-28
+UNX,Anders Skaarseth,NOR,1995-05-07
+UNX,Rasmus Tiller,NOR,1996-07-28
+UNX,Martin Tjotta,NOR,2001-01-27
+UNX,Soren Waerenskjold,NOR,2000-03-12
+UNX,Sven Erik Bystrom,NOR,1992-01-21
+UNX,Tobias Svarre,DEN,2004-07-19
+UNX,Torstein Traeen,NOR,1995-07-16
+XAT,Davide Ballerini,ITA,1994-09-21
+XAT,Alberto Bettiol,ITA,1993-10-29
+XAT,Clement Champoussin,FRA,1998-05-29
+XAT,Nicola Conci,ITA,1997-01-05
+XAT,Yevgeniy Fedorov,KAZ,2000-02-16
+XAT,Lorenzo Fortunato,ITA,1996-05-09
+XAT,Aaron Gate,NZL,1990-11-26
+XAT,Lev Gonov,RUS,2000-01-06
+XAT,Sergio Higuita,COL,1997-08-01
+XAT,Florian Samuel Kajamini,ITA,2003-02-28
+XAT,Max Kanter,GER,1997-10-22
+XAT,Anton Kuzmin,KAZ,1996-11-20
+XAT,Arjen Livyns,BEL,1994-09-01
+XAT,Harold Martin Lopez,ECU,2000-12-03
+XAT,Matteo Malucelli,ITA,1993-10-20
+XAT,Henok Mulubrhan,ERI,1999-11-11
+XAT,Cristian Rodriguez,ESP,1995-03-03
+XAT,Alessandro Romele,ITA,2003-08-30
+XAT,Christian Scaroni,ITA,1997-10-16
+XAT,Marco Schrettl,AUT,2003-09-11
+XAT,Thomas Silva,URY,2001-12-30
+XAT,Su Haoyu,CHN,2000-10-26
+XAT,Gleb Syritsa,RUS,2000-04-14
+XAT,Harold Tejada,COL,1997-04-27
+XAT,Mike Teunissen,NED,1992-08-25
+XAT,Davide Toneatti,ITA,2001-04-09
+XAT,Diego Ulissi,ITA,1989-07-15
+XAT,Darren van Bekkum,NED,2002-03-20
+XAT,Simone Velasco,ITA,1995-12-02
+XAT,Nicolas Vinokurov,KAZ,2002-07-07
+CRS,Julen Arriola-Bengoa,ESP,1971-02-16
+CRS,Daniel Babor,CZE,1999-10-22
+CRS,Abel Balderstone,ESP,2000-07-07
+CRS,Fernando Barcelo,ESP,1996-01-06
+CRS,Sebastian Berwick,AUS,1999-12-15
+CRS,Joan Bou,ESP,1997-01-16
+CRS,Jan Castellon,ESP,2003-07-31
+CRS,Sergi Darder,ESP,2003-06-30
+CRS,Alex Diaz,ESP,2001-07-28
+CRS,Samuel Fernandez,ESP,2003-07-11
+CRS,Abner Gonzalez,PUR,2000-10-09
+CRS,Jaume Guardeno,ESP,2003-02-20
+CRS,Javier Ibanez,ESP,2001-11-29
+CRS,Calum Johnston,GBR,1998-11-01
+CRS,Iuri Leitao,POR,1998-07-03
+CRS,Joseba Lopez,ESP,2000-03-05
+CRS,Alex Molenaar,NED,1999-07-13
+CRS,Joel Nicolau,ESP,1997-12-23
+CRS,Jakub Otruba,CZE,1998-01-30
+CRS,Francisco Joel Penuela,VEN,2001-02-01
+CRS,Eduard Prades,ESP,1987-08-09
+CRS,Guillermo Thomas Silva,URU,2001-12-30
+CRS,Gorka Sorarrain,ESP,1996-05-21
+CRS,Tyler Stites,USA,1998-03-18
+COF,Piet Allegaert,BEL,1995-01-20
+COF,Stanislaw Aniolkowski,POL,1997-01-20
+COF,Alex Aranburu,ESP,1995-09-19
+COF,Emanuel Buchmann,GER,1992-11-18
+COF,Simon Carr,GBR,1998-08-29
+COF,Bryan Coquard,FRA,1992-04-25
+COF,Aime De Gendt,BEL,1994-06-17
+COF,Nicolas Debeaumarche,FRA,1998-02-24
+COF,Valentin Ferron,FRA,1998-02-08
+COF,Eddy Fine,FRA,1997-11-20
+COF,Milan Fretin,BEL,2001-03-19
+COF,Jesus Herrada,ESP,1990-07-26
+COF,Ion Izagirre,ESP,1989-02-04
+COF,Clement Izquierdo,FRA,2002-02-16
+COF,Oliver Knight,GBR,2001-01-25
+COF,Jonathan Lastra,ESP,1993-06-03
+COF,Jan Maas,NED,1996-02-19
+COF,Nolann Mahoudo,FRA,2002-11-17
+COF,Sam Maisonobe,FRA,2003-09-08
+COF,Jamie Meehan,IRL,2003-09-06
+COF,Sylvain Moniquet,BEL,1998-01-14
+COF,Stefano Oldani,ITA,1998-01-10
+COF,Paul Ourselin,FRA,1994-04-13
+COF,Anthony Perez,FRA,1991-04-22
+COF,Alexis Renard,FRA,1999-06-01
+COF,Ludovic Robeet,BEL,1994-05-22
+COF,Sergio Samitier,ESP,1995-08-31
+COF,Dylan Teuns,BEL,1992-03-01
+COF,Benjamin Thomas,FRA,1995-09-12
+COF,Hugo Toumire,FRA,2001-10-05
+COF,Damien Touze,FRA,1996-07-07
+PIN,Xabier Azparren,ESP,1999-02-25
+PIN,Matteo Badilatti,SUI,1992-07-30
+PIN,Sjoerd Bax,NED,1996-01-06
+PIN,Sam Bennett,IRL,1990-10-16
+PIN,Walter Calzoni,ITA,2001-08-08
+PIN,Marcel Camprubi,ESP,2001-09-15
+PIN,Fabio Christen,SUI,2002-06-29
+PIN,David de la Cruz,ESP,1989-05-06
+PIN,Aime De Gendt,BEL,1994-06-17
+PIN,Mark Donovan,GBR,1999-04-03
+PIN,Eddie Dunbar,IRL,1996-09-01
+PIN,Frederik Frison,BEL,1992-07-28
+PIN,Thomas Gloag,GBR,2001-09-13
+PIN,David Gonzalez,ESP,1996-02-21
+PIN,Chris Harper,AUS,1994-11-23
+PIN,Quinten Hermans,BEL,1995-07-29
+PIN,Emmanuel Houcou,FRA,2003-02-14
+PIN,Damien Howson,AUS,1992-08-13
+PIN,Emils Liepins,LAT,1992-10-29
+PIN,Kamil Malecki,POL,1996-01-02
+PIN,Xandro Meurisse,BEL,1992-01-31
+PIN,Matteo Moschetti,ITA,1996-08-14
+PIN,Nicolo Parisini,ITA,2000-04-25
+PIN,Joe Pidcock,GBR,2002-03-20
+PIN,Tom Pidcock,GBR,1999-07-30
+PIN,Milan Vader,NED,1996-02-18
+PIN,Brent Van Moer,BEL,1998-01-12
+PIN,Harm Vanhoucke,BEL,1997-06-17
+PIN,Fred Wright,GBR,1999-06-13
+PIN,Nickolas Zukowsky,CAN,1998-06-03
+TTE,Lucas Boniface,FRA,1988-10-24
+TTE,Thomas Bonnet,FRA,1998-09-13
+TTE,Rayan Boulahoite,FRA,2004-02-24
+TTE,Alexys Brunel,FRA,1998-10-10
+TTE,Mathieu Burgaudeau,FRA,1998-11-17
+TTE,Steff Cras,BEL,1996-02-13
+TTE,Florian Dauphin,FRA,1999-04-06
+TTE,Joris Delbove,FRA,2000-07-15
+TTE,Alexandre Delettre,FRA,1997-10-25
+TTE,Fabien Doubey,FRA,1993-10-21
+TTE,Sandy Dujardin,FRA,1997-05-29
+TTE,Thomas Gachignard,FRA,2000-08-17
+TTE,Fabien Grellier,FRA,1994-10-31
+TTE,Emilien Jeanniere,FRA,1998-09-26
+TTE,Jordan Jegat,FRA,1999-06-07
+TTE,Alan Jousseaume,FRA,1998-08-03
+TTE,Pierre Latour,FRA,1993-10-12
+TTE,Samuel Leroux,FRA,1994-09-27
+TTE,Lorrenzo Manzin,FRA,1994-07-26
+TTE,Nicola Marcerou,FRA,2002-09-23
+TTE,Valentin Retailleau,FRA,2000-06-18
+TTE,Geoffrey Soupe,FRA,1988-03-22
+TTE,Jason Tesson,FRA,1998-01-09
+TTE,Anthony Turgis,FRA,1994-05-16
+TTE,Baptiste Vadic,FRA,2002-04-15
+TTE,Matteo Vercher,FRA,2001-01-26
+TUD,Julian Alaphilippe,FRA,1992-06-11
+TUD,Will Barta,USA,1996-01-04
+TUD,Marco Brenner,GER,2002-08-27
+TUD,Arvid de Kleijn,NED,1994-03-21
+TUD,Robin Donze,SUI,2003-11-06
+TUD,Jacob Eriksson,SWE,1999-10-01
+TUD,Robin Froidevaux,SUI,1998-10-17
+TUD,Marco Haller,AUT,1991-04-01
+TUD,Marc Hirschi,SUI,1998-08-24
+TUD,Petr Kelemen,CZE,2000-11-18
+TUD,Arthur Kluckers,LUX,2000-03-15
+TUD,Sebastian Kolze Changizi,DEN,2000-12-29
+TUD,Stefan Kung,SUI,1993-11-16
+TUD,Fabian Lienhard,SUI,1993-09-03
+TUD,Marius Mayrhofer,GER,2000-09-18
+TUD,Aivaras Mikutis,LIT,2002-09-16
+TUD,Luca Mozzato,ITA,1998-02-15
+TUD,Rick Pluimers,NED,2000-12-07
+TUD,Mathys Rondel,FRA,2003-09-23
+TUD,Michael Storer,AUS,1997-02-28
+TUD,Florian Stork,GER,1997-04-27
+TUD,Joel Suter,SUI,1998-10-25
+TUD,Roland Thalmann,SUI,1993-08-05
+TUD,Matteo Trentin,ITA,1989-08-02
+TUD,Yannis Voisard,SUI,1998-07-26
+TUD,Larry Warbasse,USA,1990-06-28
+TUD,Fabian Weiss,GER,2002-04-11
+TUD,Hannes Wilksch,GER,2001-10-30
+TUD,Luc Wirtgen,LUX,1998-07-07
+TUD,Maikel Zijlaard,NED,1999-06-01

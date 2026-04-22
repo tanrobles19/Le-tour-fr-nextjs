@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="24" fill="#0a6e3a"/>
+  <text x="100" y="80" text-anchor="middle" font-family="system-ui,sans-serif" font-size="32" font-weight="700" fill="white" letter-spacing="2">JAYCO</text>
+  <text x="100" y="125" text-anchor="middle" font-family="system-ui,sans-serif" font-size="30" font-weight="600" fill="#a0e6c0" letter-spacing="2">ALULA</text>
+</svg>

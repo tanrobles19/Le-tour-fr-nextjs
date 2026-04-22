@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="24" fill="#1a3a8f"/>
+  <text x="100" y="90" text-anchor="middle" font-family="system-ui,sans-serif" font-size="36" font-weight="700" fill="white" letter-spacing="4">SOUDAL</text>
+  <text x="100" y="130" text-anchor="middle" font-family="system-ui,sans-serif" font-size="28" font-weight="600" fill="#93b4ff" letter-spacing="2">QUICK-STEP</text>
+</svg>

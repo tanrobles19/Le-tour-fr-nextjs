@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="24" fill="#18181b"/>
+  <text x="100" y="75" text-anchor="middle" font-family="system-ui,sans-serif" font-size="24" font-weight="700" fill="#ec4899" letter-spacing="2">PINARELLO</text>
+  <text x="100" y="120" text-anchor="middle" font-family="system-ui,sans-serif" font-size="38" font-weight="800" fill="white" letter-spacing="3">Q36.5</text>
+</svg>
